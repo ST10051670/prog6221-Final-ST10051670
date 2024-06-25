@@ -1,0 +1,43 @@
+﻿<Window x:Class="Final_POE.RecipeView"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Final_POE"
+        mc:Ignorable="d"
+        Title="frmViewRecipe" Height="716" Width="800" >
+    <Grid x:Name="ViewRecipe" Margin="0,0,0,-3" Loaded="RecipeView_Loaded">
+        <Grid.Background>
+            <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                <GradientStop Color="Black"/>
+                <GradientStop Color="#FF22EDED" Offset="0.043"/>
+            </LinearGradientBrush>
+        </Grid.Background>
+        <Label x:Name="txtSearch" Content="Use the search bar below and the appropriate button to filter accordingly" HorizontalAlignment="Center" Margin="0,47,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="txtFilter" HorizontalAlignment="Left" Margin="36,50,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="144" Height="26" FontSize="14"/>
+        <Button x:Name="btnFilterIng" Content="Filter By Ingredient" HorizontalAlignment="Left" Margin="39,85,0,0" VerticalAlignment="Top" Height="27" Width="112" Click="btnFilterIng_Click"/>
+        <Button x:Name="btnFilterFoodGroup" Content="Filter By Food Group" HorizontalAlignment="Left" Margin="37,124,0,0" VerticalAlignment="Top" Height="27" Width="124" Click="btnFilterFoodGroup_Click"/>
+        <Button x:Name="btnFilterCalories" Content="Filter By Calories" HorizontalAlignment="Left" Margin="38,161,0,0" VerticalAlignment="Top" Height="27" Width="112" Click="btnFilterCalories_Click"/>
+        <ListBox x:Name="lbRecipes" d:ItemsSource="{d:SampleData ItemCount=5}" Margin="270,89,314,506" SelectionChanged="lbRecipes_SelectionChanged"/>
+        <ListBox x:Name="lbOutput" d:ItemsSource="{d:SampleData ItemCount=5}" Margin="54,247,71,329" SelectionChanged="lbOutput_SelectionChanged"/>
+        <Label x:Name="lbSelectedRecipe" Content="Selected Recipe Details:" HorizontalAlignment="Left" Margin="52,219,0,0" VerticalAlignment="Top" Width="350"/>
+        <ListBox x:Name="stepListBox" Margin="108,452,128,126">
+            <ListBox.ItemTemplate>
+                <DataTemplate>
+                    <StackPanel Orientation="Horizontal">
+                        <CheckBox Margin="5,0,0,0" />
+                        <TextBlock Text="{Binding}" />
+                    </StackPanel>
+                </DataTemplate>
+            </ListBox.ItemTemplate>
+        </ListBox>
+        <Label x:Name="lblSteps" Content="Steps" HorizontalAlignment="Left" Margin="114,429,0,0" VerticalAlignment="Top" Width="39"/>
+        <Label x:Name="lbScale" Content="scale recipe by:" HorizontalAlignment="Left" Margin="497,69,0,0" VerticalAlignment="Top" Width="183"/>
+        <Button x:Name="btnscale" Content="0.5" HorizontalAlignment="Left" Margin="510,100,0,0" VerticalAlignment="Top" Height="27" Width="53" Click="btnscale_Click"/>
+        <Button x:Name="btnscale2" Content="2" HorizontalAlignment="Left" Margin="510,132,0,0" VerticalAlignment="Top" Height="27" Width="53" Click="btnscale2_Click"/>
+        <Button x:Name="btnscale3" Content="3" HorizontalAlignment="Left" Margin="510,164,0,0" VerticalAlignment="Top" Height="27" Width="53" Click="btnscale3_Click"/>
+        <Button x:Name="btnResetScale" Content="Reset Scale" HorizontalAlignment="Left" Margin="510,196,0,0" VerticalAlignment="Top" Height="27" Width="90" Click="btnResetScale_Click"/>
+
+        <Label x:Name="lbCalories" Content="Total Calories" HorizontalAlignment="Left" Margin="243,383,0,0" VerticalAlignment="Top" Width="350"/>
+    </Grid>
+</Window>

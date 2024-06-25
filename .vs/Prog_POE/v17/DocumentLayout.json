@@ -1,0 +1,163 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\UNI\\BCAD 2024\\Semester 1\\PROG\\POE\\POE FINAL\\PROG POE\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{75F93810-7BEC-484D-9EA7-DFEC9DD71676}|Prog_POE\\MUHAMMED ZIA DESAI.ST1005167.PROG6221.POE.csproj|E:\\UNI\\BCAD 2024\\Semester 1\\PROG\\POE\\POE FINAL\\PROG POE\\prog_poe\\insertsteps.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75F93810-7BEC-484D-9EA7-DFEC9DD71676}|Prog_POE\\MUHAMMED ZIA DESAI.ST1005167.PROG6221.POE.csproj|solutionrelative:prog_poe\\insertsteps.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75F93810-7BEC-484D-9EA7-DFEC9DD71676}|Prog_POE\\MUHAMMED ZIA DESAI.ST1005167.PROG6221.POE.csproj|e:\\uni\\bcad 2024\\semester 1\\prog\\poe\\poe final\\prog poe\\prog_poe\\insertrecipe.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75F93810-7BEC-484D-9EA7-DFEC9DD71676}|Prog_POE\\MUHAMMED ZIA DESAI.ST1005167.PROG6221.POE.csproj|solutionrelative:prog_poe\\insertrecipe.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75F93810-7BEC-484D-9EA7-DFEC9DD71676}|Prog_POE\\Prog_POE.csproj|e:\\uni\\bcad 2024\\semester 1\\prog\\poe\\poe final\\prog poe\\prog_poe\\insertsteps.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{75F93810-7BEC-484D-9EA7-DFEC9DD71676}|Prog_POE\\Prog_POE.csproj|solutionrelative:prog_poe\\insertsteps.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75F93810-7BEC-484D-9EA7-DFEC9DD71676}|Prog_POE\\MUHAMMED ZIA DESAI.ST1005167.PROG6221.POE.csproj|e:\\uni\\bcad 2024\\semester 1\\prog\\poe\\poe final\\prog poe\\prog_poe\\inserting.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75F93810-7BEC-484D-9EA7-DFEC9DD71676}|Prog_POE\\MUHAMMED ZIA DESAI.ST1005167.PROG6221.POE.csproj|solutionrelative:prog_poe\\inserting.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75F93810-7BEC-484D-9EA7-DFEC9DD71676}|Prog_POE\\MUHAMMED ZIA DESAI.ST1005167.PROG6221.POE.csproj|E:\\UNI\\BCAD 2024\\Semester 1\\PROG\\POE\\POE FINAL\\PROG POE\\prog_poe\\recipeview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75F93810-7BEC-484D-9EA7-DFEC9DD71676}|Prog_POE\\MUHAMMED ZIA DESAI.ST1005167.PROG6221.POE.csproj|solutionrelative:prog_poe\\recipeview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75F93810-7BEC-484D-9EA7-DFEC9DD71676}|Prog_POE\\MUHAMMED ZIA DESAI.ST1005167.PROG6221.POE.csproj|E:\\UNI\\BCAD 2024\\Semester 1\\PROG\\POE\\POE FINAL\\PROG POE\\prog_poe\\recipesteps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75F93810-7BEC-484D-9EA7-DFEC9DD71676}|Prog_POE\\MUHAMMED ZIA DESAI.ST1005167.PROG6221.POE.csproj|solutionrelative:prog_poe\\recipesteps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75F93810-7BEC-484D-9EA7-DFEC9DD71676}|Prog_POE\\MUHAMMED ZIA DESAI.ST1005167.PROG6221.POE.csproj|E:\\UNI\\BCAD 2024\\Semester 1\\PROG\\POE\\POE FINAL\\PROG POE\\prog_poe\\recipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75F93810-7BEC-484D-9EA7-DFEC9DD71676}|Prog_POE\\MUHAMMED ZIA DESAI.ST1005167.PROG6221.POE.csproj|solutionrelative:prog_poe\\recipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75F93810-7BEC-484D-9EA7-DFEC9DD71676}|Prog_POE\\MUHAMMED ZIA DESAI.ST1005167.PROG6221.POE.csproj|E:\\UNI\\BCAD 2024\\Semester 1\\PROG\\POE\\POE FINAL\\PROG POE\\prog_poe\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75F93810-7BEC-484D-9EA7-DFEC9DD71676}|Prog_POE\\MUHAMMED ZIA DESAI.ST1005167.PROG6221.POE.csproj|solutionrelative:prog_poe\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InsertIng.xaml.cs",
+              "DocumentMoniker": "E:\\UNI\\BCAD 2024\\Semester 1\\PROG\\POE\\POE FINAL\\PROG POE\\Prog_POE\\InsertIng.xaml.cs",
+              "RelativeDocumentMoniker": "Prog_POE\\InsertIng.xaml.cs",
+              "ToolTip": "E:\\UNI\\BCAD 2024\\Semester 1\\PROG\\POE\\POE FINAL\\PROG POE\\Prog_POE\\InsertIng.xaml.cs",
+              "RelativeToolTip": "Prog_POE\\InsertIng.xaml.cs",
+              "ViewState": "AQIAAFEAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T13:49:10.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InsertRecipe.xaml.cs",
+              "DocumentMoniker": "E:\\UNI\\BCAD 2024\\Semester 1\\PROG\\POE\\POE FINAL\\PROG POE\\Prog_POE\\InsertRecipe.xaml.cs",
+              "RelativeDocumentMoniker": "Prog_POE\\InsertRecipe.xaml.cs",
+              "ToolTip": "E:\\UNI\\BCAD 2024\\Semester 1\\PROG\\POE\\POE FINAL\\PROG POE\\Prog_POE\\InsertRecipe.xaml.cs",
+              "RelativeToolTip": "Prog_POE\\InsertRecipe.xaml.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAAAB8AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T13:45:45.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InsertSteps.xaml",
+              "DocumentMoniker": "E:\\UNI\\BCAD 2024\\Semester 1\\PROG\\POE\\POE FINAL\\PROG POE\\Prog_POE\\InsertSteps.xaml",
+              "RelativeDocumentMoniker": "Prog_POE\\InsertSteps.xaml",
+              "ToolTip": "E:\\UNI\\BCAD 2024\\Semester 1\\PROG\\POE\\POE FINAL\\PROG POE\\Prog_POE\\InsertSteps.xaml",
+              "RelativeToolTip": "Prog_POE\\InsertSteps.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-25T13:35:45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "InsertSteps.xaml.cs",
+              "DocumentMoniker": "E:\\UNI\\BCAD 2024\\Semester 1\\PROG\\POE\\POE FINAL\\PROG POE\\Prog_POE\\InsertSteps.xaml.cs",
+              "RelativeDocumentMoniker": "Prog_POE\\InsertSteps.xaml.cs",
+              "ToolTip": "E:\\UNI\\BCAD 2024\\Semester 1\\PROG\\POE\\POE FINAL\\PROG POE\\Prog_POE\\InsertSteps.xaml.cs",
+              "RelativeToolTip": "Prog_POE\\InsertSteps.xaml.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAACMAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T13:35:41.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RecipeView.xaml.cs",
+              "DocumentMoniker": "E:\\UNI\\BCAD 2024\\Semester 1\\PROG\\POE\\POE FINAL\\PROG POE\\Prog_POE\\RecipeView.xaml.cs",
+              "RelativeDocumentMoniker": "Prog_POE\\RecipeView.xaml.cs",
+              "ToolTip": "E:\\UNI\\BCAD 2024\\Semester 1\\PROG\\POE\\POE FINAL\\PROG POE\\Prog_POE\\RecipeView.xaml.cs",
+              "RelativeToolTip": "Prog_POE\\RecipeView.xaml.cs",
+              "ViewState": "AQIAAEIBAAAAAAAAAAAuwFkBAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T13:31:09.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RecipeSteps.cs",
+              "DocumentMoniker": "E:\\UNI\\BCAD 2024\\Semester 1\\PROG\\POE\\POE FINAL\\PROG POE\\Prog_POE\\RecipeSteps.cs",
+              "RelativeDocumentMoniker": "Prog_POE\\RecipeSteps.cs",
+              "ToolTip": "E:\\UNI\\BCAD 2024\\Semester 1\\PROG\\POE\\POE FINAL\\PROG POE\\Prog_POE\\RecipeSteps.cs",
+              "RelativeToolTip": "Prog_POE\\RecipeSteps.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T13:31:06.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Recipe.cs",
+              "DocumentMoniker": "E:\\UNI\\BCAD 2024\\Semester 1\\PROG\\POE\\POE FINAL\\PROG POE\\Prog_POE\\Recipe.cs",
+              "RelativeDocumentMoniker": "Prog_POE\\Recipe.cs",
+              "ToolTip": "E:\\UNI\\BCAD 2024\\Semester 1\\PROG\\POE\\POE FINAL\\PROG POE\\Prog_POE\\Recipe.cs",
+              "RelativeToolTip": "Prog_POE\\Recipe.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T13:31:04.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "E:\\UNI\\BCAD 2024\\Semester 1\\PROG\\POE\\POE FINAL\\PROG POE\\Prog_POE\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Prog_POE\\MainWindow.xaml.cs",
+              "ToolTip": "E:\\UNI\\BCAD 2024\\Semester 1\\PROG\\POE\\POE FINAL\\PROG POE\\Prog_POE\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Prog_POE\\MainWindow.xaml.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T13:31:00.466Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
